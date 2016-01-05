@@ -1,12 +1,13 @@
 
-package bstjava;
+package bst;
 import java.util.Scanner;
 
-public class Bstjava {
+public class Bst {
 
-   
+    
     public static void main(String[] args) {
-         Scanner scan = new Scanner(System.in);
+        // TODO code application logic here
+           Scanner scan = new Scanner(System.in);
        
         link bst = new link(); 
         System.out.println("Binary Search Tree Test\n");          

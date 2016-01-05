@@ -1,10 +1,9 @@
 
-package bstjava;
-import java.util.Scanner;
+package bst;
 
 
 public class bstnode {
-  bstnode right,left;
+    bstnode right,left;
   int data;
   
   bstnode(){
